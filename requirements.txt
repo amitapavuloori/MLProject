@@ -1,0 +1,8 @@
+scikit-learn
+numpy
+pandas
+torch
+torchtext
+transformers
+datasets
+sqlalchemy
